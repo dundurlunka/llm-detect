@@ -1,0 +1,238 @@
+[
+    {
+        "base_model": "fine_tune_bert_gpt-3.5-turbo-0125",
+        "results_against_all_llms": [
+            {
+                "reddit_dolly": {
+                    "test_loss": 2.692246590109054,
+                    "test_acc": 61.23333333333333,
+                    "test_f1": 0.3710113574905355,
+                    "test_recall": 0.22866666666666666,
+                    "test_precision": 0.9828080229226361,
+                    "test_brier": 0,
+                    "test_auc_tuple": 0
+                }
+            },
+            {
+                "reddit_flant5": {
+                    "test_loss": 1.8699625143010363,
+                    "test_acc": 62.55,
+                    "test_f1": 0.40508339952343136,
+                    "test_recall": 0.255,
+                    "test_precision": 0.9845559845559846,
+                    "test_brier": 0,
+                    "test_auc_tuple": 0
+                }
+            },
+            {
+                "reddit_chatGPT": {
+                    "test_loss": 1.7618785971955846,
+                    "test_acc": 75.2,
+                    "test_f1": 0.671957671957672,
+                    "test_recall": 0.508,
+                    "test_precision": 0.9921875,
+                    "test_brier": 0,
+                    "test_auc_tuple": 0
+                }
+            },
+            {
+                "reddit_bloomz": {
+                    "test_loss": 3.9405895112341818,
+                    "test_acc": 50.74999999999999,
+                    "test_f1": 0.03714565004887586,
+                    "test_recall": 0.019,
+                    "test_precision": 0.8260869565217391,
+                    "test_brier": 0,
+                    "test_auc_tuple": 0
+                }
+            },
+            {
+                "reddit_davinci": {
+                    "test_loss": 1.9931303803890106,
+                    "test_acc": 70.66666666666667,
+                    "test_f1": 0.5872420262664165,
+                    "test_recall": 0.41733333333333333,
+                    "test_precision": 0.990506329113924,
+                    "test_brier": 0,
+                    "test_auc_tuple": 0
+                }
+            },
+            {
+                "reddit_cohere": {
+                    "test_loss": 1.3095936136975999,
+                    "test_acc": 53.849999999999994,
+                    "test_f1": 0.14930875576036867,
+                    "test_recall": 0.081,
+                    "test_precision": 0.9529411764705882,
+                    "test_brier": 0,
+                    "test_auc_tuple": 0
+                }
+            },
+            {
+                "arxiv_bloomz": {
+                    "test_loss": 3.2788234663770552,
+                    "test_acc": 42.4,
+                    "test_f1": 0.14960629921259844,
+                    "test_recall": 0.10133333333333333,
+                    "test_precision": 0.2857142857142857,
+                    "test_brier": 0,
+                    "test_auc_tuple": 0
+                }
+            },
+            {
+                "arxiv_flant5": {
+                    "test_loss": 1.2635325348757682,
+                    "test_acc": 68.15,
+                    "test_f1": 0.65929755749688,
+                    "test_recall": 0.6163333333333333,
+                    "test_precision": 0.7087006515906478,
+                    "test_brier": 0,
+                    "test_auc_tuple": 0
+                }
+            },
+            {
+                "arxiv_davinci": {
+                    "test_loss": 1.128239742460403,
+                    "test_acc": 72.13333333333334,
+                    "test_f1": 0.7140902872777017,
+                    "test_recall": 0.696,
+                    "test_precision": 0.7331460674157303,
+                    "test_brier": 0,
+                    "test_auc_tuple": 0
+                }
+            },
+            {
+                "arxiv_chatGPT": {
+                    "test_loss": 0.579954546014283,
+                    "test_acc": 84.51666666666667,
+                    "test_f1": 0.8590502199969656,
+                    "test_recall": 0.9436666666666667,
+                    "test_precision": 0.7883597883597884,
+                    "test_brier": 0,
+                    "test_auc_tuple": 0
+                }
+            },
+            {
+                "arxiv_cohere": {
+                    "test_loss": 2.4754506317859,
+                    "test_acc": 47.583333333333336,
+                    "test_f1": 0.28114285714285714,
+                    "test_recall": 0.205,
+                    "test_precision": 0.44727272727272727,
+                    "test_brier": 0,
+                    "test_auc_tuple": 0
+                }
+            },
+            {
+                "wikipedia_davinci": {
+                    "test_loss": 0.8431030423628126,
+                    "test_acc": 83.25271059216013,
+                    "test_f1": 0.8210338680926915,
+                    "test_recall": 0.7676666666666667,
+                    "test_precision": 0.882375478927203,
+                    "test_brier": 0,
+                    "test_auc_tuple": 0
+                }
+            },
+            {
+                "wikipedia_chatgpt": {
+                    "test_loss": 0.4180650960857128,
+                    "test_acc": 91.01836393989984,
+                    "test_f1": 0.9113089350478074,
+                    "test_recall": 0.9228714524207011,
+                    "test_precision": 0.9000325626831651,
+                    "test_brier": 0,
+                    "test_auc_tuple": 0
+                }
+            },
+            {
+                "wikipedia_bloomz": {
+                    "test_loss": 1.8264853423808087,
+                    "test_acc": 52.627189324437026,
+                    "test_f1": 0.24748277689454165,
+                    "test_recall": 0.15566666666666668,
+                    "test_precision": 0.603359173126615,
+                    "test_brier": 0,
+                    "test_auc_tuple": 0
+                }
+            },
+            {
+                "wikipedia_cohere": {
+                    "test_loss": 2.168903077675119,
+                    "test_acc": 60.945413618458076,
+                    "test_f1": 0.350187265917603,
+                    "test_recall": 0.2401541095890411,
+                    "test_precision": 0.6463133640552995,
+                    "test_brier": 0,
+                    "test_auc_tuple": 0
+                }
+            },
+            {
+                "wikipedia_dolly": {
+                    "test_loss": 2.6477198358000824,
+                    "test_acc": 57.67948042829559,
+                    "test_f1": 0.3315774882173551,
+                    "test_recall": 0.22131754256106587,
+                    "test_precision": 0.6607734806629835,
+                    "test_brier": 0,
+                    "test_auc_tuple": 0
+                }
+            },
+            {
+                "wikihow_bloomz": {
+                    "test_loss": 4.255197100641724,
+                    "test_acc": 49.88333333333333,
+                    "test_f1": 0.0,
+                    "test_recall": 0.0,
+                    "test_precision": 0.0,
+                    "test_brier": 0,
+                    "test_auc_tuple": 0
+                }
+            },
+            {
+                "wikihow_cohere": {
+                    "test_loss": 3.939932203498137,
+                    "test_acc": 51.26666666666667,
+                    "test_f1": 0.05372168284789644,
+                    "test_recall": 0.027666666666666666,
+                    "test_precision": 0.9222222222222223,
+                    "test_brier": 0,
+                    "test_auc_tuple": 0
+                }
+            },
+            {
+                "wikihow_chatGPT": {
+                    "test_loss": 4.170838910673371,
+                    "test_acc": 50.28333333333334,
+                    "test_f1": 0.01583635763774332,
+                    "test_recall": 0.008,
+                    "test_precision": 0.7741935483870968,
+                    "test_brier": 0,
+                    "test_auc_tuple": 0
+                }
+            },
+            {
+                "wikihow_davinci": {
+                    "test_loss": 3.980315402926127,
+                    "test_acc": 51.1,
+                    "test_f1": 0.0474025974025974,
+                    "test_recall": 0.024333333333333332,
+                    "test_precision": 0.9125,
+                    "test_brier": 0,
+                    "test_auc_tuple": 0
+                }
+            },
+            {
+                "wikihow_dolly2": {
+                    "test_loss": 4.043627966416488,
+                    "test_acc": 50.516666666666666,
+                    "test_f1": 0.02495894909688013,
+                    "test_recall": 0.012666666666666666,
+                    "test_precision": 0.8444444444444444,
+                    "test_brier": 0,
+                    "test_auc_tuple": 0
+                }
+            }
+        ]
+    }
+]
