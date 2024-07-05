@@ -1,0 +1,1402 @@
+[
+  {
+    "id": null,
+    "text": null,
+    "text_index": 0,
+    "is_llm": 0,
+    "binoculars_score": 0.9243845343589783
+  },
+  {
+    "id": null,
+    "text": null,
+    "text_index": 1,
+    "is_llm": 0,
+    "binoculars_score": 1.0389440059661865
+  },
+  {
+    "id": null,
+    "text": null,
+    "text_index": 2,
+    "is_llm": 0,
+    "binoculars_score": 0.8861924409866333
+  },
+  {
+    "id": null,
+    "text": null,
+    "text_index": 3,
+    "is_llm": 0,
+    "binoculars_score": 0.989311158657074
+  },
+  {
+    "id": null,
+    "text": null,
+    "text_index": 4,
+    "is_llm": 0,
+    "binoculars_score": 0.8986629247665405
+  },
+  {
+    "id": null,
+    "text": null,
+    "text_index": 5,
+    "is_llm": 0,
+    "binoculars_score": 0.948536217212677
+  },
+  {
+    "id": null,
+    "text": null,
+    "text_index": 6,
+    "is_llm": 0,
+    "binoculars_score": 0.8541223406791687
+  },
+  {
+    "id": null,
+    "text": null,
+    "text_index": 7,
+    "is_llm": 0,
+    "binoculars_score": 0.9880850911140442
+  },
+  {
+    "id": null,
+    "text": null,
+    "text_index": 8,
+    "is_llm": 0,
+    "binoculars_score": 0.9090611934661865
+  },
+  {
+    "id": null,
+    "text": null,
+    "text_index": 9,
+    "is_llm": 0,
+    "binoculars_score": 0.952084481716156
+  },
+  {
+    "id": null,
+    "text": null,
+    "text_index": 10,
+    "is_llm": 0,
+    "binoculars_score": 0.9526767730712891
+  },
+  {
+    "id": null,
+    "text": null,
+    "text_index": 11,
+    "is_llm": 0,
+    "binoculars_score": 0.8785262703895569
+  },
+  {
+    "id": null,
+    "text": null,
+    "text_index": 12,
+    "is_llm": 0,
+    "binoculars_score": 0.9814279675483704
+  },
+  {
+    "id": null,
+    "text": null,
+    "text_index": 13,
+    "is_llm": 0,
+    "binoculars_score": 0.9540643095970154
+  },
+  {
+    "id": null,
+    "text": null,
+    "text_index": 14,
+    "is_llm": 0,
+    "binoculars_score": 0.9214162826538086
+  },
+  {
+    "id": null,
+    "text": null,
+    "text_index": 15,
+    "is_llm": 0,
+    "binoculars_score": 0.8234619498252869
+  },
+  {
+    "id": null,
+    "text": null,
+    "text_index": 16,
+    "is_llm": 0,
+    "binoculars_score": 1.0069448947906494
+  },
+  {
+    "id": null,
+    "text": null,
+    "text_index": 17,
+    "is_llm": 0,
+    "binoculars_score": 0.8971611857414246
+  },
+  {
+    "id": null,
+    "text": null,
+    "text_index": 18,
+    "is_llm": 0,
+    "binoculars_score": 0.967414140701294
+  },
+  {
+    "id": null,
+    "text": null,
+    "text_index": 19,
+    "is_llm": 0,
+    "binoculars_score": 0.9763873219490051
+  },
+  {
+    "id": null,
+    "text": null,
+    "text_index": 20,
+    "is_llm": 0,
+    "binoculars_score": 1.0075246095657349
+  },
+  {
+    "id": null,
+    "text": null,
+    "text_index": 21,
+    "is_llm": 0,
+    "binoculars_score": 0.9523894786834717
+  },
+  {
+    "id": null,
+    "text": null,
+    "text_index": 22,
+    "is_llm": 0,
+    "binoculars_score": 0.9550542831420898
+  },
+  {
+    "id": null,
+    "text": null,
+    "text_index": 23,
+    "is_llm": 0,
+    "binoculars_score": 0.941024899482727
+  },
+  {
+    "id": null,
+    "text": null,
+    "text_index": 24,
+    "is_llm": 0,
+    "binoculars_score": 0.9272775650024414
+  },
+  {
+    "id": null,
+    "text": null,
+    "text_index": 25,
+    "is_llm": 0,
+    "binoculars_score": 0.9981036186218262
+  },
+  {
+    "id": null,
+    "text": null,
+    "text_index": 26,
+    "is_llm": 0,
+    "binoculars_score": 0.9689472913742065
+  },
+  {
+    "id": null,
+    "text": null,
+    "text_index": 27,
+    "is_llm": 0,
+    "binoculars_score": 0.8615380525588989
+  },
+  {
+    "id": null,
+    "text": null,
+    "text_index": 28,
+    "is_llm": 0,
+    "binoculars_score": 1.0032155513763428
+  },
+  {
+    "id": null,
+    "text": null,
+    "text_index": 29,
+    "is_llm": 0,
+    "binoculars_score": 0.9080910682678223
+  },
+  {
+    "id": null,
+    "text": null,
+    "text_index": 30,
+    "is_llm": 0,
+    "binoculars_score": 0.9563673138618469
+  },
+  {
+    "id": null,
+    "text": null,
+    "text_index": 31,
+    "is_llm": 0,
+    "binoculars_score": 0.8908149600028992
+  },
+  {
+    "id": null,
+    "text": null,
+    "text_index": 32,
+    "is_llm": 0,
+    "binoculars_score": 0.9222495555877686
+  },
+  {
+    "id": null,
+    "text": null,
+    "text_index": 33,
+    "is_llm": 0,
+    "binoculars_score": 0.8613654375076294
+  },
+  {
+    "id": null,
+    "text": null,
+    "text_index": 34,
+    "is_llm": 0,
+    "binoculars_score": 0.999995231628418
+  },
+  {
+    "id": null,
+    "text": null,
+    "text_index": 35,
+    "is_llm": 0,
+    "binoculars_score": 0.9817014932632446
+  },
+  {
+    "id": null,
+    "text": null,
+    "text_index": 36,
+    "is_llm": 0,
+    "binoculars_score": 0.9636627435684204
+  },
+  {
+    "id": null,
+    "text": null,
+    "text_index": 37,
+    "is_llm": 0,
+    "binoculars_score": 0.9524553418159485
+  },
+  {
+    "id": null,
+    "text": null,
+    "text_index": 38,
+    "is_llm": 0,
+    "binoculars_score": 0.9152795076370239
+  },
+  {
+    "id": null,
+    "text": null,
+    "text_index": 39,
+    "is_llm": 0,
+    "binoculars_score": 0.9042841196060181
+  },
+  {
+    "id": null,
+    "text": null,
+    "text_index": 40,
+    "is_llm": 0,
+    "binoculars_score": 0.9639416337013245
+  },
+  {
+    "id": null,
+    "text": null,
+    "text_index": 41,
+    "is_llm": 0,
+    "binoculars_score": 0.9095183610916138
+  },
+  {
+    "id": null,
+    "text": null,
+    "text_index": 42,
+    "is_llm": 0,
+    "binoculars_score": 0.9285330772399902
+  },
+  {
+    "id": null,
+    "text": null,
+    "text_index": 43,
+    "is_llm": 0,
+    "binoculars_score": 0.8998906016349792
+  },
+  {
+    "id": null,
+    "text": null,
+    "text_index": 44,
+    "is_llm": 0,
+    "binoculars_score": 0.9878169894218445
+  },
+  {
+    "id": null,
+    "text": null,
+    "text_index": 45,
+    "is_llm": 0,
+    "binoculars_score": 0.946575403213501
+  },
+  {
+    "id": null,
+    "text": null,
+    "text_index": 46,
+    "is_llm": 0,
+    "binoculars_score": 0.9781883358955383
+  },
+  {
+    "id": null,
+    "text": null,
+    "text_index": 47,
+    "is_llm": 0,
+    "binoculars_score": 0.9984410405158997
+  },
+  {
+    "id": null,
+    "text": null,
+    "text_index": 48,
+    "is_llm": 0,
+    "binoculars_score": 0.9340770244598389
+  },
+  {
+    "id": null,
+    "text": null,
+    "text_index": 49,
+    "is_llm": 0,
+    "binoculars_score": 0.9575645327568054
+  },
+  {
+    "id": null,
+    "text": null,
+    "text_index": 50,
+    "is_llm": 0,
+    "binoculars_score": 0.9145451784133911
+  },
+  {
+    "id": null,
+    "text": null,
+    "text_index": 51,
+    "is_llm": 0,
+    "binoculars_score": 0.946263313293457
+  },
+  {
+    "id": null,
+    "text": null,
+    "text_index": 52,
+    "is_llm": 0,
+    "binoculars_score": 0.9554328322410583
+  },
+  {
+    "id": null,
+    "text": null,
+    "text_index": 53,
+    "is_llm": 0,
+    "binoculars_score": 0.9475480914115906
+  },
+  {
+    "id": null,
+    "text": null,
+    "text_index": 54,
+    "is_llm": 0,
+    "binoculars_score": 0.9007702469825745
+  },
+  {
+    "id": null,
+    "text": null,
+    "text_index": 55,
+    "is_llm": 0,
+    "binoculars_score": 0.955905556678772
+  },
+  {
+    "id": null,
+    "text": null,
+    "text_index": 56,
+    "is_llm": 0,
+    "binoculars_score": 1.015196681022644
+  },
+  {
+    "id": null,
+    "text": null,
+    "text_index": 57,
+    "is_llm": 0,
+    "binoculars_score": 0.9513793587684631
+  },
+  {
+    "id": null,
+    "text": null,
+    "text_index": 58,
+    "is_llm": 0,
+    "binoculars_score": 0.8696473836898804
+  },
+  {
+    "id": null,
+    "text": null,
+    "text_index": 59,
+    "is_llm": 0,
+    "binoculars_score": 0.9433031678199768
+  },
+  {
+    "id": null,
+    "text": null,
+    "text_index": 60,
+    "is_llm": 0,
+    "binoculars_score": 0.9750081300735474
+  },
+  {
+    "id": null,
+    "text": null,
+    "text_index": 61,
+    "is_llm": 0,
+    "binoculars_score": 0.8665786981582642
+  },
+  {
+    "id": null,
+    "text": null,
+    "text_index": 62,
+    "is_llm": 0,
+    "binoculars_score": 0.9038137793540955
+  },
+  {
+    "id": null,
+    "text": null,
+    "text_index": 63,
+    "is_llm": 0,
+    "binoculars_score": 0.9309485554695129
+  },
+  {
+    "id": null,
+    "text": null,
+    "text_index": 64,
+    "is_llm": 0,
+    "binoculars_score": 0.9498835206031799
+  },
+  {
+    "id": null,
+    "text": null,
+    "text_index": 65,
+    "is_llm": 0,
+    "binoculars_score": 0.9920576810836792
+  },
+  {
+    "id": null,
+    "text": null,
+    "text_index": 66,
+    "is_llm": 0,
+    "binoculars_score": 0.8917104005813599
+  },
+  {
+    "id": null,
+    "text": null,
+    "text_index": 67,
+    "is_llm": 0,
+    "binoculars_score": 0.9658993482589722
+  },
+  {
+    "id": null,
+    "text": null,
+    "text_index": 68,
+    "is_llm": 0,
+    "binoculars_score": 0.9529526829719543
+  },
+  {
+    "id": null,
+    "text": null,
+    "text_index": 69,
+    "is_llm": 0,
+    "binoculars_score": 0.8836421966552734
+  },
+  {
+    "id": null,
+    "text": null,
+    "text_index": 70,
+    "is_llm": 0,
+    "binoculars_score": 0.9341322779655457
+  },
+  {
+    "id": null,
+    "text": null,
+    "text_index": 71,
+    "is_llm": 0,
+    "binoculars_score": 1.0009095668792725
+  },
+  {
+    "id": null,
+    "text": null,
+    "text_index": 72,
+    "is_llm": 0,
+    "binoculars_score": 0.929387629032135
+  },
+  {
+    "id": null,
+    "text": null,
+    "text_index": 73,
+    "is_llm": 0,
+    "binoculars_score": 0.8772236704826355
+  },
+  {
+    "id": null,
+    "text": null,
+    "text_index": 74,
+    "is_llm": 0,
+    "binoculars_score": 0.9322355389595032
+  },
+  {
+    "id": null,
+    "text": null,
+    "text_index": 75,
+    "is_llm": 0,
+    "binoculars_score": 1.0378817319869995
+  },
+  {
+    "id": null,
+    "text": null,
+    "text_index": 76,
+    "is_llm": 0,
+    "binoculars_score": 0.8763689994812012
+  },
+  {
+    "id": null,
+    "text": null,
+    "text_index": 77,
+    "is_llm": 0,
+    "binoculars_score": 1.0149208307266235
+  },
+  {
+    "id": null,
+    "text": null,
+    "text_index": 78,
+    "is_llm": 0,
+    "binoculars_score": 0.8590113520622253
+  },
+  {
+    "id": null,
+    "text": null,
+    "text_index": 79,
+    "is_llm": 0,
+    "binoculars_score": 0.9768775701522827
+  },
+  {
+    "id": null,
+    "text": null,
+    "text_index": 80,
+    "is_llm": 0,
+    "binoculars_score": 0.9545766711235046
+  },
+  {
+    "id": null,
+    "text": null,
+    "text_index": 81,
+    "is_llm": 0,
+    "binoculars_score": 0.9671814441680908
+  },
+  {
+    "id": null,
+    "text": null,
+    "text_index": 82,
+    "is_llm": 0,
+    "binoculars_score": 0.9236859679222107
+  },
+  {
+    "id": null,
+    "text": null,
+    "text_index": 83,
+    "is_llm": 0,
+    "binoculars_score": 0.9701368808746338
+  },
+  {
+    "id": null,
+    "text": null,
+    "text_index": 84,
+    "is_llm": 0,
+    "binoculars_score": 0.9354037642478943
+  },
+  {
+    "id": null,
+    "text": null,
+    "text_index": 85,
+    "is_llm": 0,
+    "binoculars_score": 0.936229944229126
+  },
+  {
+    "id": null,
+    "text": null,
+    "text_index": 86,
+    "is_llm": 0,
+    "binoculars_score": 0.9449506998062134
+  },
+  {
+    "id": null,
+    "text": null,
+    "text_index": 87,
+    "is_llm": 0,
+    "binoculars_score": 0.9246476888656616
+  },
+  {
+    "id": null,
+    "text": null,
+    "text_index": 88,
+    "is_llm": 0,
+    "binoculars_score": 0.9886027574539185
+  },
+  {
+    "id": null,
+    "text": null,
+    "text_index": 89,
+    "is_llm": 0,
+    "binoculars_score": 0.9754559397697449
+  },
+  {
+    "id": null,
+    "text": null,
+    "text_index": 90,
+    "is_llm": 0,
+    "binoculars_score": 0.9462568163871765
+  },
+  {
+    "id": null,
+    "text": null,
+    "text_index": 91,
+    "is_llm": 0,
+    "binoculars_score": 0.966884195804596
+  },
+  {
+    "id": null,
+    "text": null,
+    "text_index": 92,
+    "is_llm": 0,
+    "binoculars_score": 0.9911718368530273
+  },
+  {
+    "id": null,
+    "text": null,
+    "text_index": 93,
+    "is_llm": 0,
+    "binoculars_score": 0.9364188313484192
+  },
+  {
+    "id": null,
+    "text": null,
+    "text_index": 94,
+    "is_llm": 0,
+    "binoculars_score": 0.9519546031951904
+  },
+  {
+    "id": null,
+    "text": null,
+    "text_index": 95,
+    "is_llm": 0,
+    "binoculars_score": 1.052717924118042
+  },
+  {
+    "id": null,
+    "text": null,
+    "text_index": 96,
+    "is_llm": 0,
+    "binoculars_score": 0.9813405275344849
+  },
+  {
+    "id": null,
+    "text": null,
+    "text_index": 97,
+    "is_llm": 0,
+    "binoculars_score": 0.9411837458610535
+  },
+  {
+    "id": null,
+    "text": null,
+    "text_index": 98,
+    "is_llm": 0,
+    "binoculars_score": 0.9339402318000793
+  },
+  {
+    "id": null,
+    "text": null,
+    "text_index": 99,
+    "is_llm": 0,
+    "binoculars_score": 0.9444456696510315
+  },
+  {
+    "id": null,
+    "text": null,
+    "text_index": 0,
+    "is_llm": 1,
+    "binoculars_score": 0.7045214176177979
+  },
+  {
+    "id": null,
+    "text": null,
+    "text_index": 1,
+    "is_llm": 1,
+    "binoculars_score": 0.7455636858940125
+  },
+  {
+    "id": null,
+    "text": null,
+    "text_index": 2,
+    "is_llm": 1,
+    "binoculars_score": 0.8313099145889282
+  },
+  {
+    "id": null,
+    "text": null,
+    "text_index": 3,
+    "is_llm": 1,
+    "binoculars_score": 0.7702273726463318
+  },
+  {
+    "id": null,
+    "text": null,
+    "text_index": 4,
+    "is_llm": 1,
+    "binoculars_score": 0.7271309494972229
+  },
+  {
+    "id": null,
+    "text": null,
+    "text_index": 5,
+    "is_llm": 1,
+    "binoculars_score": 0.7521510124206543
+  },
+  {
+    "id": null,
+    "text": null,
+    "text_index": 6,
+    "is_llm": 1,
+    "binoculars_score": 0.7311059236526489
+  },
+  {
+    "id": null,
+    "text": null,
+    "text_index": 7,
+    "is_llm": 1,
+    "binoculars_score": 0.8315669298171997
+  },
+  {
+    "id": null,
+    "text": null,
+    "text_index": 8,
+    "is_llm": 1,
+    "binoculars_score": 0.8797293305397034
+  },
+  {
+    "id": null,
+    "text": null,
+    "text_index": 9,
+    "is_llm": 1,
+    "binoculars_score": 0.7945471405982971
+  },
+  {
+    "id": null,
+    "text": null,
+    "text_index": 10,
+    "is_llm": 1,
+    "binoculars_score": 0.9271417260169983
+  },
+  {
+    "id": null,
+    "text": null,
+    "text_index": 11,
+    "is_llm": 1,
+    "binoculars_score": 0.8193286061286926
+  },
+  {
+    "id": null,
+    "text": null,
+    "text_index": 12,
+    "is_llm": 1,
+    "binoculars_score": 0.7261605858802795
+  },
+  {
+    "id": null,
+    "text": null,
+    "text_index": 13,
+    "is_llm": 1,
+    "binoculars_score": 0.8381676077842712
+  },
+  {
+    "id": null,
+    "text": null,
+    "text_index": 14,
+    "is_llm": 1,
+    "binoculars_score": 0.8151702880859375
+  },
+  {
+    "id": null,
+    "text": null,
+    "text_index": 15,
+    "is_llm": 1,
+    "binoculars_score": 0.7642127871513367
+  },
+  {
+    "id": null,
+    "text": null,
+    "text_index": 16,
+    "is_llm": 1,
+    "binoculars_score": 0.8111330270767212
+  },
+  {
+    "id": null,
+    "text": null,
+    "text_index": 17,
+    "is_llm": 1,
+    "binoculars_score": 0.8620540499687195
+  },
+  {
+    "id": null,
+    "text": null,
+    "text_index": 18,
+    "is_llm": 1,
+    "binoculars_score": 0.8349186778068542
+  },
+  {
+    "id": null,
+    "text": null,
+    "text_index": 19,
+    "is_llm": 1,
+    "binoculars_score": 0.7814767956733704
+  },
+  {
+    "id": null,
+    "text": null,
+    "text_index": 20,
+    "is_llm": 1,
+    "binoculars_score": 0.8119268417358398
+  },
+  {
+    "id": null,
+    "text": null,
+    "text_index": 21,
+    "is_llm": 1,
+    "binoculars_score": 0.7887619137763977
+  },
+  {
+    "id": null,
+    "text": null,
+    "text_index": 22,
+    "is_llm": 1,
+    "binoculars_score": 0.7484167218208313
+  },
+  {
+    "id": null,
+    "text": null,
+    "text_index": 23,
+    "is_llm": 1,
+    "binoculars_score": 0.7549875378608704
+  },
+  {
+    "id": null,
+    "text": null,
+    "text_index": 24,
+    "is_llm": 1,
+    "binoculars_score": 0.8732151389122009
+  },
+  {
+    "id": null,
+    "text": null,
+    "text_index": 25,
+    "is_llm": 1,
+    "binoculars_score": 0.8990024924278259
+  },
+  {
+    "id": null,
+    "text": null,
+    "text_index": 26,
+    "is_llm": 1,
+    "binoculars_score": 0.868971586227417
+  },
+  {
+    "id": null,
+    "text": null,
+    "text_index": 27,
+    "is_llm": 1,
+    "binoculars_score": 0.7846447825431824
+  },
+  {
+    "id": null,
+    "text": null,
+    "text_index": 28,
+    "is_llm": 1,
+    "binoculars_score": 0.8570516705513
+  },
+  {
+    "id": null,
+    "text": null,
+    "text_index": 29,
+    "is_llm": 1,
+    "binoculars_score": 0.7480877637863159
+  },
+  {
+    "id": null,
+    "text": null,
+    "text_index": 30,
+    "is_llm": 1,
+    "binoculars_score": 0.8455504179000854
+  },
+  {
+    "id": null,
+    "text": null,
+    "text_index": 31,
+    "is_llm": 1,
+    "binoculars_score": 0.7050765752792358
+  },
+  {
+    "id": null,
+    "text": null,
+    "text_index": 32,
+    "is_llm": 1,
+    "binoculars_score": 0.7705180644989014
+  },
+  {
+    "id": null,
+    "text": null,
+    "text_index": 33,
+    "is_llm": 1,
+    "binoculars_score": 0.8245156407356262
+  },
+  {
+    "id": null,
+    "text": null,
+    "text_index": 34,
+    "is_llm": 1,
+    "binoculars_score": 0.7728854417800903
+  },
+  {
+    "id": null,
+    "text": null,
+    "text_index": 35,
+    "is_llm": 1,
+    "binoculars_score": 0.8477165699005127
+  },
+  {
+    "id": null,
+    "text": null,
+    "text_index": 36,
+    "is_llm": 1,
+    "binoculars_score": 0.7940155863761902
+  },
+  {
+    "id": null,
+    "text": null,
+    "text_index": 37,
+    "is_llm": 1,
+    "binoculars_score": 0.8814615607261658
+  },
+  {
+    "id": null,
+    "text": null,
+    "text_index": 38,
+    "is_llm": 1,
+    "binoculars_score": 0.7665467858314514
+  },
+  {
+    "id": null,
+    "text": null,
+    "text_index": 39,
+    "is_llm": 1,
+    "binoculars_score": 0.7943379878997803
+  },
+  {
+    "id": null,
+    "text": null,
+    "text_index": 40,
+    "is_llm": 1,
+    "binoculars_score": 0.7868892550468445
+  },
+  {
+    "id": null,
+    "text": null,
+    "text_index": 41,
+    "is_llm": 1,
+    "binoculars_score": 0.8240005970001221
+  },
+  {
+    "id": null,
+    "text": null,
+    "text_index": 42,
+    "is_llm": 1,
+    "binoculars_score": 0.7736306190490723
+  },
+  {
+    "id": null,
+    "text": null,
+    "text_index": 43,
+    "is_llm": 1,
+    "binoculars_score": 0.7918079495429993
+  },
+  {
+    "id": null,
+    "text": null,
+    "text_index": 44,
+    "is_llm": 1,
+    "binoculars_score": 0.8399071097373962
+  },
+  {
+    "id": null,
+    "text": null,
+    "text_index": 45,
+    "is_llm": 1,
+    "binoculars_score": 0.7987819314002991
+  },
+  {
+    "id": null,
+    "text": null,
+    "text_index": 46,
+    "is_llm": 1,
+    "binoculars_score": 0.857666015625
+  },
+  {
+    "id": null,
+    "text": null,
+    "text_index": 47,
+    "is_llm": 1,
+    "binoculars_score": 0.9340648055076599
+  },
+  {
+    "id": null,
+    "text": null,
+    "text_index": 48,
+    "is_llm": 1,
+    "binoculars_score": 0.8242141604423523
+  },
+  {
+    "id": null,
+    "text": null,
+    "text_index": 49,
+    "is_llm": 1,
+    "binoculars_score": 0.8761289119720459
+  },
+  {
+    "id": null,
+    "text": null,
+    "text_index": 50,
+    "is_llm": 1,
+    "binoculars_score": 0.815936803817749
+  },
+  {
+    "id": null,
+    "text": null,
+    "text_index": 51,
+    "is_llm": 1,
+    "binoculars_score": 0.8374696969985962
+  },
+  {
+    "id": null,
+    "text": null,
+    "text_index": 52,
+    "is_llm": 1,
+    "binoculars_score": 0.7038994431495667
+  },
+  {
+    "id": null,
+    "text": null,
+    "text_index": 53,
+    "is_llm": 1,
+    "binoculars_score": 0.7511722445487976
+  },
+  {
+    "id": null,
+    "text": null,
+    "text_index": 54,
+    "is_llm": 1,
+    "binoculars_score": 0.7615453004837036
+  },
+  {
+    "id": null,
+    "text": null,
+    "text_index": 55,
+    "is_llm": 1,
+    "binoculars_score": 0.7662969827651978
+  },
+  {
+    "id": null,
+    "text": null,
+    "text_index": 56,
+    "is_llm": 1,
+    "binoculars_score": 0.8090668320655823
+  },
+  {
+    "id": null,
+    "text": null,
+    "text_index": 57,
+    "is_llm": 1,
+    "binoculars_score": 0.857409656047821
+  },
+  {
+    "id": null,
+    "text": null,
+    "text_index": 58,
+    "is_llm": 1,
+    "binoculars_score": 0.7054395079612732
+  },
+  {
+    "id": null,
+    "text": null,
+    "text_index": 59,
+    "is_llm": 1,
+    "binoculars_score": 0.7680855393409729
+  },
+  {
+    "id": null,
+    "text": null,
+    "text_index": 60,
+    "is_llm": 1,
+    "binoculars_score": 0.8497678637504578
+  },
+  {
+    "id": null,
+    "text": null,
+    "text_index": 61,
+    "is_llm": 1,
+    "binoculars_score": 0.7675457000732422
+  },
+  {
+    "id": null,
+    "text": null,
+    "text_index": 62,
+    "is_llm": 1,
+    "binoculars_score": 0.7864012718200684
+  },
+  {
+    "id": null,
+    "text": null,
+    "text_index": 63,
+    "is_llm": 1,
+    "binoculars_score": 0.7913983464241028
+  },
+  {
+    "id": null,
+    "text": null,
+    "text_index": 64,
+    "is_llm": 1,
+    "binoculars_score": 0.6933910846710205
+  },
+  {
+    "id": null,
+    "text": null,
+    "text_index": 65,
+    "is_llm": 1,
+    "binoculars_score": 0.8635647296905518
+  },
+  {
+    "id": null,
+    "text": null,
+    "text_index": 66,
+    "is_llm": 1,
+    "binoculars_score": 0.8627399206161499
+  },
+  {
+    "id": null,
+    "text": null,
+    "text_index": 67,
+    "is_llm": 1,
+    "binoculars_score": 0.7778947949409485
+  },
+  {
+    "id": null,
+    "text": null,
+    "text_index": 68,
+    "is_llm": 1,
+    "binoculars_score": 0.8776895999908447
+  },
+  {
+    "id": null,
+    "text": null,
+    "text_index": 69,
+    "is_llm": 1,
+    "binoculars_score": 0.6997361183166504
+  },
+  {
+    "id": null,
+    "text": null,
+    "text_index": 70,
+    "is_llm": 1,
+    "binoculars_score": 0.8051921725273132
+  },
+  {
+    "id": null,
+    "text": null,
+    "text_index": 71,
+    "is_llm": 1,
+    "binoculars_score": 0.8330052495002747
+  },
+  {
+    "id": null,
+    "text": null,
+    "text_index": 72,
+    "is_llm": 1,
+    "binoculars_score": 0.815240204334259
+  },
+  {
+    "id": null,
+    "text": null,
+    "text_index": 73,
+    "is_llm": 1,
+    "binoculars_score": 0.8129638433456421
+  },
+  {
+    "id": null,
+    "text": null,
+    "text_index": 74,
+    "is_llm": 1,
+    "binoculars_score": 0.8163042664527893
+  },
+  {
+    "id": null,
+    "text": null,
+    "text_index": 75,
+    "is_llm": 1,
+    "binoculars_score": 0.7466235160827637
+  },
+  {
+    "id": null,
+    "text": null,
+    "text_index": 76,
+    "is_llm": 1,
+    "binoculars_score": 0.8754762411117554
+  },
+  {
+    "id": null,
+    "text": null,
+    "text_index": 77,
+    "is_llm": 1,
+    "binoculars_score": 0.8317311406135559
+  },
+  {
+    "id": null,
+    "text": null,
+    "text_index": 78,
+    "is_llm": 1,
+    "binoculars_score": 0.7375857830047607
+  },
+  {
+    "id": null,
+    "text": null,
+    "text_index": 79,
+    "is_llm": 1,
+    "binoculars_score": 0.8180229663848877
+  },
+  {
+    "id": null,
+    "text": null,
+    "text_index": 80,
+    "is_llm": 1,
+    "binoculars_score": 0.8113394975662231
+  },
+  {
+    "id": null,
+    "text": null,
+    "text_index": 81,
+    "is_llm": 1,
+    "binoculars_score": 0.8316405415534973
+  },
+  {
+    "id": null,
+    "text": null,
+    "text_index": 82,
+    "is_llm": 1,
+    "binoculars_score": 0.7696762681007385
+  },
+  {
+    "id": null,
+    "text": null,
+    "text_index": 83,
+    "is_llm": 1,
+    "binoculars_score": 0.7165001034736633
+  },
+  {
+    "id": null,
+    "text": null,
+    "text_index": 84,
+    "is_llm": 1,
+    "binoculars_score": 0.803925096988678
+  },
+  {
+    "id": null,
+    "text": null,
+    "text_index": 85,
+    "is_llm": 1,
+    "binoculars_score": 0.874110996723175
+  },
+  {
+    "id": null,
+    "text": null,
+    "text_index": 86,
+    "is_llm": 1,
+    "binoculars_score": 0.7779384255409241
+  },
+  {
+    "id": null,
+    "text": null,
+    "text_index": 87,
+    "is_llm": 1,
+    "binoculars_score": 0.6613135933876038
+  },
+  {
+    "id": null,
+    "text": null,
+    "text_index": 88,
+    "is_llm": 1,
+    "binoculars_score": 0.7763338685035706
+  },
+  {
+    "id": null,
+    "text": null,
+    "text_index": 89,
+    "is_llm": 1,
+    "binoculars_score": 0.8326622843742371
+  },
+  {
+    "id": null,
+    "text": null,
+    "text_index": 90,
+    "is_llm": 1,
+    "binoculars_score": 0.7582820057868958
+  },
+  {
+    "id": null,
+    "text": null,
+    "text_index": 91,
+    "is_llm": 1,
+    "binoculars_score": 0.9474829435348511
+  },
+  {
+    "id": null,
+    "text": null,
+    "text_index": 92,
+    "is_llm": 1,
+    "binoculars_score": 0.8426353335380554
+  },
+  {
+    "id": null,
+    "text": null,
+    "text_index": 93,
+    "is_llm": 1,
+    "binoculars_score": 0.7440195083618164
+  },
+  {
+    "id": null,
+    "text": null,
+    "text_index": 94,
+    "is_llm": 1,
+    "binoculars_score": 0.8639565706253052
+  },
+  {
+    "id": null,
+    "text": null,
+    "text_index": 95,
+    "is_llm": 1,
+    "binoculars_score": 0.8597387075424194
+  },
+  {
+    "id": null,
+    "text": null,
+    "text_index": 96,
+    "is_llm": 1,
+    "binoculars_score": 0.866206169128418
+  },
+  {
+    "id": null,
+    "text": null,
+    "text_index": 97,
+    "is_llm": 1,
+    "binoculars_score": 0.8207715749740601
+  },
+  {
+    "id": null,
+    "text": null,
+    "text_index": 98,
+    "is_llm": 1,
+    "binoculars_score": 0.8222635388374329
+  },
+  {
+    "id": null,
+    "text": null,
+    "text_index": 99,
+    "is_llm": 1,
+    "binoculars_score": 0.8572232127189636
+  }
+]
