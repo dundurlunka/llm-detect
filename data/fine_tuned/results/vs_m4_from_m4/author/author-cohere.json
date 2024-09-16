@@ -1,0 +1,38 @@
+{
+    "self": {
+        "accuracy": 0.9760607798165137,
+        "precision": 0.963855421686747,
+        "recall": 0.9879447221405468,
+        "f1_score": 0.9757514157107594
+    },
+    "author-human": {
+        "accuracy": 0.9754344919786097,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1_score": 0.0
+    },
+    "author-davinci": {
+        "accuracy": 0.6355833333333333,
+        "precision": 1.0,
+        "recall": 0.6355833333333333,
+        "f1_score": 0.7771946807968615
+    },
+    "author-bloomz": {
+        "accuracy": 0.28275,
+        "precision": 1.0,
+        "recall": 0.28275,
+        "f1_score": 0.4408497368933931
+    },
+    "author-chatGPT": {
+        "accuracy": 0.8475311387900356,
+        "precision": 1.0,
+        "recall": 0.8475311387900356,
+        "f1_score": 0.9174742671401914
+    },
+    "author-chatgpt": {
+        "accuracy": 0.8951612903225806,
+        "precision": 1.0,
+        "recall": 0.8951612903225806,
+        "f1_score": 0.9446808510638298
+    }
+}
