@@ -15,3 +15,4 @@ data/fine_tuned/models/fine_tune_bert_meta-llama-llama-2-7b-chat-hf/model.safete
 data/fine_tuned/models/fine_tune_bert_mistralai-mixtral-8x7b-instruct-v0.1/config.json
 data/fine_tuned/models/fine_tune_bert_mistralai-mixtral-8x7b-instruct-v0.1/model.safetensors
 data/raw/m4-unified.zip
+data/baseline
